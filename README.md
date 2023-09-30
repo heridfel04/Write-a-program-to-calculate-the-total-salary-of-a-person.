@@ -1,0 +1,1 @@
+# Write-a-program-to-calculate-the-total-salary-of-a-person.
